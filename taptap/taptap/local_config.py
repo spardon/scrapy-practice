@@ -1,4 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-from mongoengine
+
+MONGO_URI = 'mongodb://localhost:27017'

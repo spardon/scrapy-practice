@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+from config import *  # NOQA
 # Scrapy settings for taptap project
 #
 # For simplicity, this file contains only settings considered important or

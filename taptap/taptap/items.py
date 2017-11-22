@@ -14,6 +14,7 @@ class TaptapItem(Item):
     kind = Field()
     rating = Field()
     lables = Field()
+    rank_kind = Field()
     created_at = Field()
     updated_at = Field()
 
